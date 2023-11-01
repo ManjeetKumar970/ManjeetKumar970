@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MANJEET KUMAR</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <img src="[https://iachievelearning.com/wp-content/uploads/2015/10/loading-animations-preloader-gifs-ui-ux-effects-4.gif](https://images.squarespace-cdn.com/content/v1/58b71435414fb5f53856f3b3/1489769649226-U2CQKOA36YPD5LWXZB9W/7b736a33be802fc2e737e3df56b4ef0e.gif?format=1000w)" /> </p>
+<p align="left"> <img src="https://images.squarespace-cdn.com/content/v1/58b71435414fb5f53856f3b3/1489769649226-U2CQKOA36YPD5LWXZB9W/7b736a33be802fc2e737e3df56b4ef0e.gif?format=1000w" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manjeetkumar970" alt="manjeetkumar970" /></a> </p>
 
