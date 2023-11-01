@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/manjeet-kumar-976b28241/**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/15aj5DJxTwBOT1TCEZQjK-C32rdYbAsb6?usp=sharing](https://drive.google.com/drive/folders/15aj5DJxTwBOT1TCEZQjK-C32rdYbAsb6?usp=sharing)
+- 📄 Know about my experiences : https://drive.google.com/file/d/11OoK1cdoQxCx86-gDw3gNpO6HZEJX7JT/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
