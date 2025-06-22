@@ -23,12 +23,6 @@
 
 - 💬 Talk to me about JavaScript, Freelancing Opportunities, Open Source... 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,materialui,sass,jquery,php,laravel,react,nodejs,express,mongodb,git,github,jest,less,md,mysql,npm,redux,vscode,postman,figma&perline=8" />
-  </a>
-</p>
-
 <br/> 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manjeet-kumar-976b28241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manjeet-kumar-976b28241/" height="30" width="40" /></a>
