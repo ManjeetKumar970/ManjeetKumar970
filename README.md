@@ -1,16 +1,15 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="cover" />
+<img width="100%" height = "250px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<div size='20px'> Hi! My name is Rakshith, Full Stack Web Developer.
+<div size='20px'> Hi! My name is Manjeet Kumar, Full Stack Web Developer.
  Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 
 <h2 style="display: flex; align-items: center;">
   About Me 
-<!--   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width="100px" style="margin-left: 10px;"> -->
 </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
