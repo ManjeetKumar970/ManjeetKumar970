@@ -1,17 +1,35 @@
-<h1 align="center">Hi 👋, I'm MANJEET KUMAR</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<div align="center">
+<img width="100%" height = "250px" src="https://cdn.pfps.gg/banners/9147-dark-n-purple-sky-banner.gif" alt="cover" />
+</div>
 
-<p align="left"> <img align="right" width="400"  src="https://images.squarespace-cdn.com/content/v1/58b71435414fb5f53856f3b3/1489769649226-U2CQKOA36YPD5LWXZB9W/7b736a33be802fc2e737e3df56b4ef0e.gif?format=1000w" /> </p>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<div size='20px'> Hi! My name is Manjeet Kumar, a Full Stack Web Developer.
+ Thank you for taking the time to view my GitHub Profile :smile: 
+</div>
 
-- 🔭 I’m currently working on **#**
+<h2 style="display: flex; align-items: center;">
+  About Me 
+<!--   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width="100px" style="margin-left: 10px;"> -->
+</h2>
 
-- 🌱 I’m currently learning **React,**
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
-- 📫 How to reach me **https://www.linkedin.com/in/manjeet-kumar-976b28241/**
 
-- 📄 Know about my experiences:""->
+- 🔭 I’m currently working on GitHub projects, blogs etc...
 
-<h3 align="left">Connect with me:</h3>
+- 🌱 I’m currently learning React Redux, Redux Toolkit, and Authentication in Node JS 
+
+- 👯 I’m looking to collaborate on projects, tech articles... 
+
+- 💬 Talk to me about JavaScript, Freelancing Opportunities, Open Source... 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,materialui,sass,jquery,php,laravel,react,nodejs,express,mongodb,git,github,jest,less,md,mysql,npm,redux,vscode,postman,figma&perline=8" />
+  </a>
+</p>
+
+<br/> 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manjeet-kumar-976b28241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manjeet-kumar-976b28241/" height="30" width="40" /></a>
 <a href="https://instagram.com/manxjitkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manxjitkr" height="30" width="40" /></a>
