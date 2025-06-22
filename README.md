@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://cdn.pfps.gg/banners/9147-dark-n-purple-sky-banner.gif" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://i.gifer.com/53bd.gif" width = 50px height='50px'> </h1>
 <div size='20px'> Hi! My name is Manjeet Kumar, a Full Stack Web Developer.
  Thank you for taking the time to view my GitHub Profile :smile: 
 </div>
