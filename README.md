@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pfps.gg/banners/9147-dark-n-purple-sky-banner.gif" alt="cover" />
+<img width="100%" height = "250px" src="https://i.gifer.com/53bd.gif" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://i.gifer.com/53bd.gif" width = 50px height='50px'> </h1>
@@ -12,7 +12,7 @@
 <!--   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width="100px" style="margin-left: 10px;"> -->
 </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://i.gifer.com/53bd.gif" />
 
 
 - 🔭 I’m currently working on GitHub projects, blogs etc...
